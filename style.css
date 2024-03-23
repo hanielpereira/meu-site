@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8e8e0;
+  
+    .card {
+      background-color: #f8e8e0;
+    }
+  
+    .no-border {
+      border: none;
+    }
+  }
+  
